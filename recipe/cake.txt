@@ -4,3 +4,5 @@ eggs
 milk
 sugar
 vanilla
+chocolate chips
+cacao
